@@ -1,0 +1,1 @@
+package uz.smd.nfcsample1.nfcdemo;
